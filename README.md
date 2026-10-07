@@ -129,16 +129,6 @@ It helped demonstrate how data analysis can be used to understand milk quality c
 
 ---
 
-## 👩‍💻 Author
-
-**Vaishnavi Surwase**
-
-Data Science Student
-
-**Innomatics Research Labs**
-
----
-
 ## ⭐ Project Highlights
 
 - 8,500+ Milk Samples
@@ -154,3 +144,12 @@ Data Science Student
 - Insight Generation
 
 #DataScience #EDA #Python #Pandas #DataVisualization #DataAnalytics
+----------------------
+
+## 👩‍💻 Author
+
+**Vaishnavi Surwase**
+
+Data Science Student
+
+**Innomatics Research Labs**
